@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhimanyuSingh2005
 - 👀 I’m interested in Web development & Ai.
 - 🌱 I’m currently learning web development & Java.
-- 💞️ I’m looking to collaborate on Web development project(Frontend).
+- 💞️ I’m looking to collaborate on Full Stack Web development project.
 - 📫 You can mail me on abhimanyusik@gmail.com
 
 <!---
