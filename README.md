@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about Web Development, Cyber Securi
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/abhimanyusingh2005](https://www.linkedin.com/in/abhimanyu-singh-6535a9259/))
+- [LinkedIn](https://www.linkedin.com/in/abhimanyu-singh-6535a9259/)
 - [Personal Website](https://abhimanyusingh2005.github.io/portfolio/)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's build something amazing together!
